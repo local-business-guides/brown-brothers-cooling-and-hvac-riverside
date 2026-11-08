@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/brown-brothers-cooling-and-hvac-riverside/sitemap.xml
+Sitemap: https://local-business-guides.github.io/brown-brothers-cooling-and-hvac-riverside/news-sitemap.xml

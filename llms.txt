@@ -25,6 +25,9 @@
 - [Air Conditioning Installation Riverside](https://local-business-guides.github.io/brown-brothers-cooling-and-hvac-riverside/air-conditioning-installation-riverside/): Air Conditioning Installation Riverside homeowners can plan with clear steps and local HVAC help. Call Brown Brothers Cooling & HVAC to discuss your home.
 - [Top HVAC Contractor Ca in Riverside](https://local-business-guides.github.io/brown-brothers-cooling-and-hvac-riverside/top-hvac-contractor-ca-in-riverside/): Top HVAC Contractor Ca in Riverside homeowners can call for heating, cooling, and plumbing needs. Contact Brown Brothers Cooling & HVAC today.
 
+## Newsroom
+- [Brown Brothers Cooling & HVAC Publishes Riverside HVAC Contractor Guide](https://local-business-guides.github.io/brown-brothers-cooling-and-hvac-riverside/news/2026-11-08-brown-brothers-cooling-hvac-publishes-riverside/): Brown Brothers Cooling & HVAC published a guide about HVAC contractors in Riverside, with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-08)
+
 ## Pages
 - [HVAC Contractor in Riverside, California](https://local-business-guides.github.io/brown-brothers-cooling-and-hvac-riverside/): Get help with heating and cooling from a local team serving Riverside, California. Call +1951-356-7700.
 - [About Brown Brothers Cooling & HVAC](https://local-business-guides.github.io/brown-brothers-cooling-and-hvac-riverside/about/): About Brown Brothers Cooling & HVAC, Riverside.
@@ -32,4 +35,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/brown-brothers-cooling-and-hvac-riverside/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/brown-brothers-cooling-and-hvac-riverside/news/rss.xml)
 - [Main resource site](https://brown-brothers-riverside.localbusinesses1.chatgpt.site)
